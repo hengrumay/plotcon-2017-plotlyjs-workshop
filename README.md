@@ -12,6 +12,7 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
   + Introduction to the plotly.js [plot-schema](https://plot.ly/javascript/reference/)
   + Introduction to `Plotly` [methods](https://plot.ly/javascript/plotlyjs-function-reference/) and configuration [options](https://plot.ly/javascript/configuration-options/)
   + Best practices for creating charts and maps
+  + Introduction to partial [bundles](https://github.com/plotly/plotly.js/blob/master/dist/README.md)
   
 - **Day 1 afternoon session:** Adding charts to an HTML dashboard template:
   + How to make plotly.js charts [responsive](https://plot.ly/javascript/responsive-fluid-layout/)
