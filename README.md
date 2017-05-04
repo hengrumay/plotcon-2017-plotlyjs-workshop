@@ -38,3 +38,5 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
   **Live demo links:**
   
   - https://codepen.io/etpinard/pen/vmeNrv
+  - https://codepen.io/etpinard/pen/XRedvK
+  - https://codepen.io/etpinard/pen/JNrRGe
