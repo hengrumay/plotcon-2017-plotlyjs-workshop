@@ -24,6 +24,8 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
     - https://codepen.io/etpinard/pen/EmvbOL
     - http://codepen.io/etpinard/pen/JNyrvE
     - http://codepen.io/etpinard/pen/XRagNg
+  + Challenge: add / remove annotations on clicking a point
+    - http://codepen.io/alexcjohnson/pen/vmeXrN
 
 - **Day 2 morning session:** Getting started with the Plotly.js event ecosystem:
   + Overview of plotly.js event [data](https://plot.ly/javascript/plotlyjs-events/#event-data)
