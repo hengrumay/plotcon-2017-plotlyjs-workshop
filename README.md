@@ -31,3 +31,9 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
   
 - **Day 2 afternoon session:** Wrap-up: 
   + Questions, individual projects, and time to use as the workshop participants see fit 
+  
+  ---------
+  
+  **Live demo links:**
+  
+  - https://codepen.io/etpinard/pen/vmeNrv
