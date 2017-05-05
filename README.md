@@ -37,6 +37,8 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
     - http://codepen.io/alexcjohnson/pen/eWGWbm
   + Overview of plotly.js event [data](https://plot.ly/javascript/plotlyjs-events/#event-data)
     - http://codepen.io/alexcjohnson/pen/xdXLov?editors=0010
+  + Pseudo HTML
+    - https://help.plot.ly/adding-HTML-and-links-to-charts/
   + How to add _drill downs_ handlers to plotly.js charts
   + How to [animate](https://plot.ly/javascript/animations/) plotly.js graphs
   
