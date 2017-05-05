@@ -42,7 +42,8 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
   + How to add _drill downs_ handlers to plotly.js charts
   + How to [animate](https://plot.ly/javascript/animations/) plotly.js graphs
     - http://rickyreusser.com/plotcon-2017-plotlyjs-animation-workshop/#1
-  
+    - http://codepen.io/rsreusser/pen/MbGbOj 🐒
+  
 - **Day 2 afternoon session:** Wrap-up: 
   + Questions, individual projects, and time to use as the workshop participants see fit 
   
