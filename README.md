@@ -28,7 +28,10 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
     - http://codepen.io/alexcjohnson/pen/vmeXrN
 
 - **Day 2 morning session:** Getting started with the Plotly.js event ecosystem:
+  + Streaming: Plotly.extendTraces
+    - http://codepen.io/alexcjohnson/pen/eWGWbm
   + Overview of plotly.js event [data](https://plot.ly/javascript/plotlyjs-events/#event-data)
+    - http://codepen.io/alexcjohnson/pen/xdXLov?editors=0010
   + How to add _drill downs_ handlers to plotly.js charts
   + How to [animate](https://plot.ly/javascript/animations/) plotly.js graphs
   
