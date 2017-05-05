@@ -44,6 +44,7 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
     - http://codepen.io/rsreusser/pen/MbGbOj 🐒
   + Challenge: add _drill downs_ handlers to plotly.js time series
     - https://codepen.io/etpinard/pen/bWoJPr?editors=0010
+    - https://help.plot.ly/date-format-and-time-series/
   
 - **Day 2 afternoon session:** Wrap-up: 
   + Questions, individual projects, and time to use as the workshop participants see fit 
