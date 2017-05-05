@@ -49,6 +49,9 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
 - **Day 2 afternoon session:** Wrap-up: 
   + Questions, individual projects, and time to use as the workshop participants see fit 
   
+  - Custom mode bar buttons: https://codepen.io/etpinard/pen/jmGjJW?editors=0010
+  - Info about latest releases: https://twitter.com/plotly_js and https://github.com/plotly/plotly.js/releases
+  
   ---------
   
 
