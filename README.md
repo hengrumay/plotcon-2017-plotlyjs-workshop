@@ -26,6 +26,11 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
     - http://codepen.io/etpinard/pen/XRagNg
   + Challenge: add / remove annotations on clicking a point
     - http://codepen.io/alexcjohnson/pen/vmeXrN
+  + **Live demo links:**
+    - https://codepen.io/etpinard/pen/vmeNrv
+    - https://codepen.io/etpinard/pen/XRedvK
+    - https://codepen.io/etpinard/pen/JNrRGe
+    - https://codepen.io/etpinard/pen/NjaRYg
 
 - **Day 2 morning session:** Getting started with the Plotly.js event ecosystem:
   + Streaming: Plotly.extendTraces
@@ -40,9 +45,4 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
   
   ---------
   
-  **Live demo links:**
-  
-  - https://codepen.io/etpinard/pen/vmeNrv
-  - https://codepen.io/etpinard/pen/XRedvK
-  - https://codepen.io/etpinard/pen/JNrRGe
-  - https://codepen.io/etpinard/pen/NjaRYg
+
