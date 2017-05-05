@@ -41,7 +41,7 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
     - https://help.plot.ly/adding-HTML-and-links-to-charts/
   + How to [animate](https://plot.ly/javascript/animations/) plotly.js graphs
     - http://rickyreusser.com/plotcon-2017-plotlyjs-animation-workshop/#1
-    - http://codepen.io/rsreusser/pen/MbGbOj 🐒
+    - http://codepen.io/rsreusser/pen/MbGbOj 🐒
   + Challenge: add _drill downs_ handlers to plotly.js time series
     - https://codepen.io/etpinard/pen/bWoJPr?editors=0010
     - https://help.plot.ly/date-format-and-time-series/
