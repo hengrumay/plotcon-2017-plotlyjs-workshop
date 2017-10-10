@@ -49,6 +49,7 @@ Syllabus and materials for plotly.js workshop at PLOTCON 2017
 - **Day 2 afternoon session:** Plotly.js + React: 
   + Setting up a "Hello World" React app with `create-react-app`
   + Add the new Plotly React Component to your app
+  + Add the new Plotly `react-plotly.js` component to your app
   + Add the new Plotly `react-pivottable` component to your app
   + Questions, individual projects, and time to use as the workshop participants see fit 
   
